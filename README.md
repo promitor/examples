@@ -1,8 +1,10 @@
-# Promitor - Example Configurations
-
-[![Artifact HUB](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/promitor)](https://artifacthub.io/packages/search?repo=promitor)
+# Promitor - Example & Starter Configurations
 
 Official repo containing configuration examples for using Promitor.
+
+- [Scraping agent starter configurations](./scraper/README.md)
+
+![Logo](https://raw.githubusercontent.com/promitor/governance/main/logos/promitor-small.png)
 
 ## Documentation
 
